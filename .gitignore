@@ -4,8 +4,8 @@
 # Log files
 *.log
 
+# VS Code specific files
 .vscode/
-# IntelliJ IDEA specific files
 
 # BlueJ files
 *.ctxt
